@@ -1,0 +1,69 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Battleship/*
+!/Battleship/task/
+/Battleship/task/*
+!/Battleship/task/src
+
+# Project exclude paths
+/Topics/Custom exceptions/Custom exceptions features/out/
+/Topics/Custom exceptions/Custom exceptions features/out/production/classes/
+/Topics/Custom exceptions/DriverNotReadyException/out/
+/Topics/Custom exceptions/DriverNotReadyException/out/production/classes/
+/Topics/Custom exceptions/Handle incorrect inputs/out/
+/Topics/Custom exceptions/Handle incorrect inputs/out/production/classes/
+/Topics/Custom exceptions/Square class/out/
+/Topics/Custom exceptions/Square class/out/production/classes/
+/Topics/Custom exceptions/Theory/out/
+/Topics/Custom exceptions/Theory/out/production/classes/
+/Topics/Increment and decrement/Decrement all/out/
+/Topics/Increment and decrement/Decrement all/out/production/classes/
+/Topics/Input streams/Byte vs character input streams/out/
+/Topics/Input streams/Byte vs character input streams/out/production/classes/
+/Topics/Input streams/Convert to bytes/out/
+/Topics/Input streams/Convert to bytes/out/production/classes/
+/Topics/Input streams/Reverse input text/out/
+/Topics/Input streams/Reverse input text/out/production/classes/
+/Topics/Input streams/Theory/out/
+/Topics/Input streams/Theory/out/production/classes/
+/Topics/Processing strings/Convert a date/out/
+/Topics/Processing strings/Convert a date/out/production/classes/
+/Topics/Processing strings/Create an euphonious word/out/
+/Topics/Processing strings/Create an euphonious word/out/production/classes/
+/Topics/Processing strings/Determine the output/out/
+/Topics/Processing strings/Determine the output/out/production/classes/
+/Topics/Processing strings/Determine the value/out/
+/Topics/Processing strings/Determine the value/out/production/classes/
+/Topics/Processing strings/Generating passwords/out/
+/Topics/Processing strings/Generating passwords/out/production/classes/
+/Topics/Processing strings/Palindrome/out/
+/Topics/Processing strings/Palindrome/out/production/classes/
+/Topics/Processing strings/Parse url/out/
+/Topics/Processing strings/Parse url/out/production/classes/
+/Topics/Processing strings/Theory/out/
+/Topics/Processing strings/Theory/out/production/classes/
+/Topics/Throwing exceptions/Days of the week/out/
+/Topics/Throwing exceptions/Days of the week/out/production/classes/
+/Topics/Throwing exceptions/How to throw an exception/out/
+/Topics/Throwing exceptions/How to throw an exception/out/production/classes/
+/Topics/Throwing exceptions/Possible declaration/out/
+/Topics/Throwing exceptions/Possible declaration/out/production/classes/
+/Topics/Throwing exceptions/Theory/out/
+/Topics/Throwing exceptions/Theory/out/production/classes/
+/Topics/Throwing exceptions/Throw an IOException/out/
+/Topics/Throwing exceptions/Throw an IOException/out/production/classes/
+/Topics/Throwing exceptions/Throwing statements/out/
+/Topics/Throwing exceptions/Throwing statements/out/production/classes/
